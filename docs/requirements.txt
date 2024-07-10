@@ -21,3 +21,4 @@ sphinxcontrib-websupport==1.2.4
 urllib3==1.26.19
 virtualenv>=20.20.0
 virtualenv-clone==0.5.7
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
